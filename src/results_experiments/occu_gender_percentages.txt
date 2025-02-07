@@ -1,0 +1,15 @@
+\begin{tabular}{lrrrr}
+\toprule
+gender & f & i & m & none \\
+occupation &  &  &  &  \\
+\midrule
+computer hardware engineer & 6.34 & 7.04 & 86.62 & 0.00 \\
+dental hygienist & 65.47 & 26.62 & 4.32 & 3.60 \\
+electrician & 7.03 & 13.28 & 78.91 & 0.78 \\
+firefighter & 15.86 & 19.31 & 64.83 & 0.00 \\
+nurse & 97.24 & 2.07 & 0.69 & 0.00 \\
+police officer & 29.33 & 20.67 & 50.00 & 0.00 \\
+receptionist & 66.24 & 10.19 & 23.57 & 0.00 \\
+skincare specialist & 90.84 & 6.11 & 1.53 & 1.53 \\
+\bottomrule
+\end{tabular}

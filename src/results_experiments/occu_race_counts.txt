@@ -1,0 +1,15 @@
+\begin{tabular}{lrrrrr}
+\toprule
+gender & f & i & m & none & total_annotations \\
+occupation &  &  &  &  &  \\
+\midrule
+computer hardware engineer & 9 & 10 & 123 & 0 & 142 \\
+dental hygienist & 91 & 37 & 6 & 5 & 139 \\
+electrician & 9 & 17 & 101 & 1 & 128 \\
+firefighter & 23 & 28 & 94 & 0 & 145 \\
+nurse & 141 & 3 & 1 & 0 & 145 \\
+police officer & 44 & 31 & 75 & 0 & 150 \\
+receptionist & 104 & 16 & 37 & 0 & 157 \\
+skincare specialist & 119 & 8 & 2 & 2 & 131 \\
+\bottomrule
+\end{tabular}

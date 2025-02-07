@@ -1,0 +1,75 @@
+Continent,Country,T-Statistic,P-Value,Significant
+Africa,Botswana,1.0,0.0625,False
+Africa,Burkina Faso,6.0,0.4375,False
+Africa,Egypt,7.0,0.5625,False
+Africa,Gambia,6.0,0.4375,False
+Africa,Mauritius,5.0,0.3125,False
+Africa,Nigeria,6.0,0.4375,False
+Africa,Seychelles,0.0,0.03125,True
+Africa,South Africa,3.0,0.15625,False
+Africa,Zambia,5.0,0.3125,False
+Africa,Zimbabwe,6.0,0.4375,False
+Asia,Hong Kong China,2.0,0.09375,False
+Asia,India,8.0,0.6875,False
+Asia,Indonesia,6.0,0.4375,False
+Asia,Israel,2.0,0.09375,False
+Asia,Mongolia,1.0,0.0625,False
+Asia,Republic of Korea,3.0,0.15625,False
+Asia,Thailand,1.0,0.0625,False
+Asia,United Arab Emirates,7.0,0.5625,False
+Asia,Viet Nam,3.0,0.15625,False
+Europe,Albania,6.0,0.4375,False
+Europe,Austria,2.0,0.09375,False
+Europe,Belarus,0.0,0.03125,True
+Europe,Belgium,4.0,0.21875,False
+Europe,Bulgaria,1.0,0.0625,False
+Europe,Croatia,1.0,0.0625,False
+Europe,Czechia,1.0,0.0625,False
+Europe,Denmark,3.0,0.15625,False
+Europe,Finland,0.0,0.03125,True
+Europe,France,1.0,0.0625,False
+Europe,Germany,2.0,0.09375,False
+Europe,Greece,4.0,0.21875,False
+Europe,Hungary,1.0,0.0625,False
+Europe,Iceland,1.0,0.0625,False
+Europe,Ireland,1.0,0.0625,False
+Europe,Italy,4.0,0.21875,False
+Europe,Kosovo,10.0,1.0,False
+Europe,Latvia,1.0,0.0625,False
+Europe,Lithuania,1.0,0.0625,False
+Europe,Netherlands,3.0,0.15625,False
+Europe,North Macedonia,5.0,0.3125,False
+Europe,Norway,4.0,0.21875,False
+Europe,Poland,3.0,0.15625,False
+Europe,Portugal,3.0,0.15625,False
+Europe,Republic of Moldova,1.0,0.0625,False
+Europe,Romania,1.0,0.0625,False
+Europe,Serbia,3.0,0.15625,False
+Europe,Slovakia,1.0,0.0625,False
+Europe,Slovenia,4.0,0.21875,False
+Europe,Spain,3.0,0.15625,False
+Europe,Sweden,4.0,0.21875,False
+Europe,Switzerland,3.0,0.15625,False
+Europe,United Kingdom of Great Britain and Northern Ireland,2.0,0.09375,False
+Europe/Asia,Cyprus,2.0,0.09375,False
+Europe/Asia,Russian Federation,0.0,0.03125,True
+Europe/Asia,Türkiye,10.0,1.0,False
+North America,Costa Rica,5.0,0.3125,False
+North America,Dominican Republic,3.0,0.15625,False
+North America,El Salvador,5.0,0.3125,False
+North America,Grenada,1.0,0.0625,False
+North America,Guatemala,3.0,0.15625,False
+North America,Honduras,6.0,0.4375,False
+North America,Mexico,3.0,0.15625,False
+North America,Panama,1.0,0.0625,False
+North America,Trinidad and Tobago,0.0,0.03125,True
+Oceania,Australia,1.0,0.0625,False
+South America,Argentina,4.0,0.21875,False
+South America,Bolivia (Plurinational State of),2.0,0.09375,False
+South America,Brazil,4.0,0.21875,False
+South America,Chile,4.0,0.21875,False
+South America,Colombia,3.0,0.15625,False
+South America,Ecuador,4.0,0.21875,False
+South America,Paraguay,4.0,0.21875,False
+South America,Peru,4.0,0.21875,False
+South America,Uruguay,4.0,0.21875,False

@@ -1,0 +1,75 @@
+Continent,Country,T-Statistic,P-Value,Significant
+Africa,Botswana,9.0,0.17965367965367965,False
+Africa,Burkina Faso,13.0,0.48484848484848486,False
+Africa,Egypt,22.0,0.5887445887445888,False
+Africa,Gambia,14.0,0.5887445887445888,False
+Africa,Mauritius,13.0,0.48484848484848486,False
+Africa,Nigeria,13.0,0.47039300443864784,False
+Africa,Seychelles,9.0,0.17965367965367965,False
+Africa,South Africa,13.0,0.48484848484848486,False
+Africa,Zambia,12.0,0.3939393939393939,False
+Africa,Zimbabwe,13.0,0.48484848484848486,False
+Asia,Hong Kong China,11.0,0.30952380952380953,False
+Asia,India,23.0,0.48484848484848486,False
+Asia,Indonesia,13.0,0.48484848484848486,False
+Asia,Israel,11.0,0.30952380952380953,False
+Asia,Mongolia,9.0,0.17965367965367965,False
+Asia,Republic of Korea,13.0,0.48484848484848486,False
+Asia,Thailand,10.0,0.24025974025974026,False
+Asia,United Arab Emirates,20.0,0.8181818181818182,False
+Asia,Viet Nam,12.0,0.3939393939393939,False
+Europe,Albania,14.0,0.5887445887445888,False
+Europe,Austria,12.0,0.3939393939393939,False
+Europe,Belarus,9.0,0.17965367965367965,False
+Europe,Belgium,11.0,0.30952380952380953,False
+Europe,Bulgaria,11.0,0.30952380952380953,False
+Europe,Croatia,12.0,0.3939393939393939,False
+Europe,Czechia,13.0,0.48484848484848486,False
+Europe,Denmark,12.0,0.3939393939393939,False
+Europe,Finland,10.0,0.24025974025974026,False
+Europe,France,10.0,0.24025974025974026,False
+Europe,Germany,11.0,0.30952380952380953,False
+Europe,Greece,12.0,0.3939393939393939,False
+Europe,Hungary,10.0,0.24025974025974026,False
+Europe,Iceland,11.0,0.30952380952380953,False
+Europe,Ireland,11.0,0.30952380952380953,False
+Europe,Italy,12.0,0.3939393939393939,False
+Europe,Kosovo,18.0,1.0,False
+Europe,Latvia,10.0,0.24025974025974026,False
+Europe,Lithuania,10.0,0.24025974025974026,False
+Europe,Netherlands,12.0,0.3939393939393939,False
+Europe,North Macedonia,14.0,0.5887445887445888,False
+Europe,Norway,12.0,0.3939393939393939,False
+Europe,Poland,10.0,0.24025974025974026,False
+Europe,Portugal,11.0,0.30952380952380953,False
+Europe,Republic of Moldova,9.0,0.17965367965367965,False
+Europe,Romania,11.0,0.30952380952380953,False
+Europe,Serbia,11.0,0.30952380952380953,False
+Europe,Slovakia,11.0,0.30952380952380953,False
+Europe,Slovenia,11.0,0.30952380952380953,False
+Europe,Spain,12.0,0.3939393939393939,False
+Europe,Sweden,11.0,0.30952380952380953,False
+Europe,Switzerland,13.0,0.48484848484848486,False
+Europe,United Kingdom of Great Britain and Northern Ireland,10.0,0.24025974025974026,False
+Europe/Asia,Cyprus,12.0,0.3939393939393939,False
+Europe/Asia,Russian Federation,9.0,0.17965367965367965,False
+Europe/Asia,Türkiye,17.0,0.9372294372294373,False
+North America,Costa Rica,12.0,0.3939393939393939,False
+North America,Dominican Republic,11.0,0.30952380952380953,False
+North America,El Salvador,11.0,0.30952380952380953,False
+North America,Grenada,11.0,0.30952380952380953,False
+North America,Guatemala,10.0,0.24025974025974026,False
+North America,Honduras,12.0,0.3939393939393939,False
+North America,Mexico,12.0,0.3939393939393939,False
+North America,Panama,10.0,0.24025974025974026,False
+North America,Trinidad and Tobago,9.0,0.17273282913055155,False
+Oceania,Australia,10.0,0.24025974025974026,False
+South America,Argentina,12.0,0.3939393939393939,False
+South America,Bolivia (Plurinational State of),11.0,0.30952380952380953,False
+South America,Brazil,11.0,0.30952380952380953,False
+South America,Chile,11.0,0.30952380952380953,False
+South America,Colombia,11.0,0.30952380952380953,False
+South America,Ecuador,12.0,0.3939393939393939,False
+South America,Paraguay,11.0,0.30952380952380953,False
+South America,Peru,12.0,0.3939393939393939,False
+South America,Uruguay,12.0,0.3939393939393939,False

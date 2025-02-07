@@ -1,0 +1,2467 @@
+{
+  "computer hardware engineer": {
+    "0": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["n", "n"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["n", "n"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["n", "w"]
+      },
+      "5": {
+        "gender": ["i", "f"],
+        "race": ["n", "n"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["i", "i"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["n", "n"]
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["i", "i"],
+        "race": ["n", "w"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["n", "i"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "m"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["i", "m"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    }
+  },
+  "dental hygienist": {
+    "0": {
+      "1": {
+        "gender": ["none"],
+        "race": ["none"],
+        "note_gender": "just patient visible and hands of dental hygienist"
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["f"],
+        "race": ["w"],
+        "note_gender": "patient not annotated"
+      },
+      "4": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"],
+        "note_gender": "patient not annotated"
+      },
+      "5": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["f", "i"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"],
+        "note_gender": "patient not annotated"
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"],
+        "note_gender": "patient not annotated"
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["n", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["none", "i", "f"],
+        "race": ["i", "w", "n"],
+        "note_gender": "patient not annotated"
+      },
+      "5": {
+        "gender": ["f"],
+        "race": ["w"],
+        "note_gender": "patient (left) not annotated"
+      },
+      "6": {
+        "gender": ["f", "f", "f"],
+        "race": ["n", "w", "n"],
+        "note_gender": "patient not annotated"
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["i", "i"],
+        "race": ["i", "n"],
+        "note_gender": "patient (middle) not annotated"
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i"],
+        "race": ["i"],
+        "note_gender": "patient (left) not annotated"
+      },
+      "3": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["none"],
+        "race": ["none"]
+      },
+      "6": {
+        "gender": ["none"],
+        "race": ["none"]
+      },
+      "7": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"],
+        "note_gender": "patient (middle) not annotated"
+      },
+      "8": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "9": {
+        "gender": ["i", "i"],
+        "race": ["w", "i"],
+        "note_gender": "patient (middle) not annotated"
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["f", "f", "i"],
+        "race": ["n", "i", "i"]
+      },
+      "2": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "i"],
+        "race": ["w", "i"]
+      },
+      "5": {
+        "gender": ["none", "i", "f", "f", "f"],
+        "race": ["w", "n", "w", "w", "w"]
+      },
+      "6": {
+        "gender": ["i", "i", "f"],
+        "race": ["i", "w", "i"]
+      },
+      "7": {
+        "gender": ["f", "i", "f"],
+        "race": ["i", "i", "w"]
+      },
+      "8": {
+        "gender": ["f", "i"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"],
+        "note_gender": "patient (middle) not annotated"
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "3": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"],
+        "note_gender": "patient (middle) not annotated"
+      },
+      "6": {
+        "gender": ["i", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["i", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f"],
+        "race": ["w"],
+        "note_gender": "patient (right) not annotated"
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "8": {
+        "gender": ["f", "m"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "m"],
+        "race": ["w", "n"]
+      },
+      "5": {
+        "gender": ["i", "f"],
+        "race": ["n", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"],
+        "note_gender": "patient (middle) not annotated"
+      },
+      "7": {
+        "gender": ["m", "f"],
+        "race": ["i", "i"]
+      },
+      "8": {
+        "gender": ["i", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["i"],
+        "race": ["i"],
+        "note_gender": "patient not annotated"
+      }
+    }
+  },
+  "electrician": {
+    "0": {
+      "1": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "2": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "3": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "4": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "5": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "6": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "7": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "8": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "9": {
+        "gender": ["m"],
+        "race": ["w"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["i"],
+        "race": ["w"]
+      },
+      "2": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "3": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "4": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "5": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "6": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "7": {
+        "gender": ["m"],
+        "race": ["w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m"],
+        "race": ["w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["n", "n"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["n", "n"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["n", "i"]
+      },
+      "7": {
+        "gender": ["m", "f","m"],
+        "race": ["n", "w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "7": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["i", "m"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      },
+      "5": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["i", "i"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["i", "m"],
+        "race": ["n", "w"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["none", "m"],
+        "race": ["none", "w"]
+      },
+      "8": {
+        "gender": ["m", "i"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "i"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["i", "m"],
+        "race": ["i", "w"]
+      },
+      "4": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    }
+  },
+  "firefighter": {
+    "0": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["n", "n"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "n"]
+      },
+      "3": {
+        "gender": ["m", "m", "f", "f"],
+        "race": ["n", "w", "n", "i"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["n", "i"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["n", "i"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["i", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "i"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["i", "f"],
+        "race": ["i", "w"]
+      },
+      "4": {
+        "gender": ["m"],
+        "race": ["n"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "8": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["i", "m"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "i"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "i"],
+        "race": ["w", "w"]
+      }
+    }
+  },
+  "nurse": {
+    "0": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "9": {
+        "gender": ["i", "f"],
+        "race": ["i", "i"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "f", "f"],
+        "race": ["w", "w", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["f", "i"],
+        "race": ["i", "i"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["n", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["n", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      }
+    }
+  },
+  "police officer": {
+    "0": {
+      "1": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "m"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["n", "n"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "i"]
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "f"],
+        "race": ["i", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["i", "i"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "2": {
+        "gender": ["f", "m", "f", "f"],
+        "race": ["i", "w", "n", "i"]
+      },
+      "3": {
+        "gender": ["f", "m"],
+        "race": ["n", "i"]
+      },
+      "4": {
+        "gender": ["f", "i"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["f", "m"],
+        "race": ["w", "n"]
+      },
+      "6": {
+        "gender": ["i", "m"],
+        "race": ["i", "n"]
+      },
+      "7": {
+        "gender": ["f", "f", "f"],
+        "race": ["n", "i", "n"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "9": {
+        "gender": ["m", "f", "i"],
+        "race": ["i", "w", "n"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["m", "i"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["i", "i"],
+        "race": ["w", "n"]
+      },
+      "3": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "m"],
+        "race": ["n", "i"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "m"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["n", "w"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["m", "m", "m"],
+        "race": ["w", "i", "w"]
+      },
+      "2": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "m"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["m", "f"],
+        "race": ["w", "i"]
+      },
+      "3": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["i", "i"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["i", "i"],
+        "race": ["i", "w"]
+      },
+      "8": {
+        "gender": ["i", "i"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["i", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["i", "i", "f"],
+        "race": ["w", "w", "w"]
+      },
+      "4": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["m", "m"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "m"],
+        "race": ["w", "i"]
+      },
+      "9": {
+        "gender": ["m", "m"],
+        "race": ["w", "w"]
+      }
+    }
+  },
+  "receptionist": {
+    "0": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["m", "f", "m"],
+        "race": ["w", "w", "i"]
+      },
+      "4": {
+        "gender": ["m", "f", "m", "m"],
+        "race": ["w", "w", "w", "w"]
+      },
+      "5": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["i", "f", "f", "f"],
+        "race": ["w", "w", "w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f", "i", "i"],
+        "race": ["w", "w", "i", "i"]
+      },
+      "3": {
+        "gender": ["f", "f", "f"],
+        "race": ["w", "w", "w"]
+      },
+      "4": {
+        "gender": ["i", "f", "m"],
+        "race": ["i", "w", "w"]
+      },
+      "5": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["i", "m", "f", "i"],
+        "race": ["i", "w", "w", "i"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["f", "f", "f"],
+        "race": ["n", "n", "n"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "5": {
+        "gender": ["m", "f"],
+        "race": ["n", "n"]
+      },
+      "6": {
+        "gender": ["f", "i", "f"],
+        "race": ["n", "i", "n"]
+      },
+      "7": {
+        "gender": ["f", "m"],
+        "race": ["n", "n"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["n", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["f"],
+        "race": ["w"]
+      },
+      "2": {
+        "gender": ["f", "f", "m"],
+        "race": ["w", "w", "w"]
+      },
+      "3": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["i", "f"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["f", "m"],
+        "race": ["w", "i"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["m", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "3": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["m", "i"],
+        "race": ["i", "i"]
+      },
+      "8": {
+        "gender": ["m", "f"],
+        "race": ["i", "w"]
+      },
+      "9": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["i", "f"],
+        "race": ["i", "w"]
+      },
+      "4": {
+        "gender": ["f", "i"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["m", "f", "m"],
+        "race": ["i", "w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "3": {
+        "gender": ["f", "m"],
+        "race": ["w", "n"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "m"],
+        "race": ["w", "w"]
+      },
+      "3": {
+        "gender": ["i", "i"],
+        "race": ["i", "i"]
+      },
+      "4": {
+        "gender": ["m", "f"],
+        "race": ["w", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "i"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      }
+    }
+  },
+  "skincare specialist": {
+    "0": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "8": {
+        "gender": ["f"],
+        "race": ["w"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      }
+    },
+    "1": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      }
+    },
+    "2": {
+      "1": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["w", "n"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f", "m"],
+        "race": ["i", "n", "i"]
+      }
+    },
+    "3": {
+      "1": {
+        "gender": ["f"],
+        "race": ["w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["n", "w"]
+      },
+      "3": {
+        "gender": ["f"],
+        "race": ["w"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "7": {
+        "gender": ["f"],
+        "race": ["i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "9": {
+        "gender": ["i", "f"],
+        "race": ["w", "i"]
+      }
+    },
+    "4": {
+      "1": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "2": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "3": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "4": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "5": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "8": {
+        "gender": ["i"],
+        "race": ["i"]
+      },
+      "9": {
+        "gender": ["i"],
+        "race": ["i"]
+      }
+    },
+    "5": {
+      "1": {
+        "gender": ["f"],
+        "race": ["i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["f"],
+        "race": ["i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["w", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "8": {
+        "gender": ["f", "m"],
+        "race": ["i", "i"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      }
+    },
+    "6": {
+      "1": {
+        "gender": ["f"],
+        "race": ["i"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "3": {
+        "gender": ["none", "none"],
+        "race": ["none", "none"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["i", "n"]
+      },
+      "9": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      }
+    },
+    "7": {
+      "1": {
+        "gender": ["f", "f", "f"],
+        "race": ["n", "w", "w"]
+      },
+      "2": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "3": {
+        "gender": ["f", "f"],
+        "race": ["n", "i"]
+      },
+      "4": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "5": {
+        "gender": ["f", "f"],
+        "race": ["i", "i"]
+      },
+      "6": {
+        "gender": ["f", "f"],
+        "race": ["i", "w"]
+      },
+      "7": {
+        "gender": ["f", "f"],
+        "race": ["w", "i"]
+      },
+      "8": {
+        "gender": ["f", "f"],
+        "race": ["n", "n"]
+      },
+      "9": {
+        "gender": ["f"],
+        "race": ["w"]
+      }
+    }
+  }
+}
